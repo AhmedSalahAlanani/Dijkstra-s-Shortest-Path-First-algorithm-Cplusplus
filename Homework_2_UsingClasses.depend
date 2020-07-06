@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593965275 source:x:\summer_2020\c++ for c programmers\part a\codes\module_3\homework_2_usingclasses\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
